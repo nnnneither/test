@@ -1,0 +1,35 @@
+header,article,footer{
+	border: 1px solid red;
+	padding: 10px;
+	margin: 6px;
+}
+#aaa{float: right;}
+#ha{width: 500px;}
+#nav1{
+	float: left;
+	width: 60px;
+	height: 100px;
+	border: 1px solid red;
+	padding: 10px;
+	margin: 6px;
+}
+#a1{
+	display: block;
+	float: left;
+	width: 406px;
+	height: 100px;
+}
+footer{
+	clear: both;
+	width: 500px;
+}
+#table1 td,th{
+	border: 1px blue solid;
+}
+#textfield,#passwordfield{
+	display: inline-block;
+}
+#textareafield{
+	width: 500px;
+	height: 100px;
+}
